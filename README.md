@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Data Warehouse Creation Platform, include workflow schedule system, datacatalog, metadata detection system and stuff.
+- 🌱 I’m currently learning Golang 
+
 <!--
 **lisirrx/lisirrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
