@@ -2,6 +2,11 @@
 
 - 🔭 I’m currently working on Data Warehouse Creation Platform, include workflow schedule system, datacatalog, metadata detection system and stuff.
 - 🌱 I’m currently learning Golang 
+- :yum: Fun projects: 
+  - a simple RPC framework on RSocket: [fastR](https://github.com/lisirrx/fastR)
+  - lsp4j with spring boot ( I wanna implement a SQL language server. need help!) [spring-boot-websocket-lsp4j](https://github.com/lisirrx/spring-boot-websocket-lsp4j)
+
+- :blue_book: Translation [A-Whirlwind-Tour-of-Python (Python旋风之旅)](https://github.com/SXKDZ/A-Whirlwind-Tour-of-Python)
 
 <!--
 **lisirrx/lisirrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
