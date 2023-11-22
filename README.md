@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Warehouse Creation Platform, include workflow schedule system, datacatalog, metadata detection system and stuff.
+- 🔭 I’m currently working on vector database on LSM-KVStroe, and finding research topics about storage system, especially Big Data scenarios(LakeHouse)
 - 🔭 I’m super interested in Big-Data technology, like Resource Management(Yarn/Mesos/K8s), batch&stream computing(Hive/Flink), data lake(Iceberg/Paimon) and OLAP Databases.
 - 🌱 I’m currently learning Golang 
 - :yum: Fun projects: 
