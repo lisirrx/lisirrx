@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m a first year PhD student of University at Buffalo
+- 👯 Before I started my academic journey, I worked in Alibaba for [Dataphin](https://www.aliyun.com/product/dataphin), which is an amazing Big Data Platform on Cloud.
 - 🔭 I’m super interested in Big-Data technology, like Resource Management(Yarn/Mesos/K8s), batch&stream computing(Hive/Flink), data lake(Iceberg/Paimon) and OLAP Databases.
-- 🌱 I’m currently learning Golang 
+- 🌱 I’m currently learning Rust and C++
 - :yum: Fun projects: 
   - a simple RPC framework on RSocket: [fastR](https://github.com/lisirrx/fastR)
   - lsp4j with spring boot ( I wanna implement a SQL language server. need help!) [spring-boot-websocket-lsp4j](https://github.com/lisirrx/spring-boot-websocket-lsp4j)
