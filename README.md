@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a first year PhD student of University at Buffalo, supervised by [Haonan Lu](https://sites.google.com/view/haonanlu/home)
+- 🔭 I’m a first year PhD student of University at Buffalo, working on Distributed Database Concurrency Control, supervised by [Haonan Lu](https://sites.google.com/view/haonanlu/home)
 - 👯 Before I started my academic journey, I worked in Alibaba for [Dataphin](https://www.aliyun.com/product/dataphin), which is an amazing Big Data Platform on Cloud.
 - 🔭 I’m super interested in Big-Data technology, like Resource Management(Yarn/Mesos/K8s), batch&stream computing(Hive/Flink), data lake(Iceberg/Paimon) and OLAP Databases.
 - 🌱 I’m currently learning Rust and C++
